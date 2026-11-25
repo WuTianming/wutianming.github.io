@@ -1,0 +1,10 @@
+# Links in the site header, in order. To add a section later (e.g. Talks,
+# Teaching, Portfolio, Blog Posts), add an entry here and put content in the
+# matching _talks/, _teaching/, _portfolio/, or _posts/ folder.
+
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
